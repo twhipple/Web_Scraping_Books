@@ -1,18 +1,13 @@
 # Web_Scraping_Books
 
 
-![](https://raw.githubusercontent.com/twhipple/Mushroom_Classifier_Model/master/Images/walkman200_fly-agarics.jpg)
+![](https://raw.githubusercontent.com/twhipple/Web_Scraping_Books/main/Images/megan-markham-VzBohmwztlg-unsplash.jpg)
 
-*Predicting the class of mushrooms through classification - watch out for those deadly Fly Agarics. Source: 'Walkman200', freeimages.com*
+*My kind of book store! Source: 'Megan Markham', unsplash.com*
 
 
 ## Intro
 In this repo I plan to explore web scraping techniques in order to become more familiar with the coding libraries Beautiful Soup as well as Selenium. The website I plan to scrap was actually designed as a practice site and hopefully has some intentiionally beginner level concepts.
-
-
-![](https://raw.githubusercontent.com/twhipple/Mushroom_Classifier_Model/master/Images/maarten_kruit_destroying_angle.jpg)
-
-*A very poisonous Destroying Angle mushroom. Source: maarten_kruit,  freeimages.com*
 
 
 ## README Outline
@@ -26,9 +21,9 @@ In this repo I plan to explore web scraping techniques in order to become more f
 * Built With, Contributors, Authors, Acknowledgments
 
 
-![](https://raw.githubusercontent.com/twhipple/Mushroom_Classifier_Model/master/Images/Mushrooms_by_Color.png)
+![](https://raw.githubusercontent.com/twhipple/Web_Scraping_Books/main/Images/janko-ferlic-sfL_QOnmy00-unsplash.jpg)
 
-*A fun color-coded bar plot of dataset mushrooms based on color.*
+*I can't imagine trying to find a book in here. Source: 'Janko Ferlic', unsplash.com*
 
 
 ## Project Summary
@@ -53,27 +48,17 @@ These are the libraries that I used in this project.
 * %matplotlib inline
 
 
-![](https://raw.githubusercontent.com/twhipple/Mushroom_Classifier_Model/master/Images/Class_and_habitat.png)
-
-*Bar plot looking at different mushroom habitats and their class.*
-
-
 ## Conclusions
 I was able to scrap the site and pull together a list of books with titles, prices, and ratings.
-
-
-![](https://raw.githubusercontent.com/twhipple/Mushroom_Classifier_Model/master/Images/Class_and_odor.png)
-
-*Looking at whether mushrooms are edible or not based on odor.*
 
 
 ## Future Work
 There is so much more I would like to do - and so many more websites to scrape!
 
 
-![](https://raw.githubusercontent.com/twhipple/Mushroom_Classifier_Model/master/Images/mm_ramos_basket-of-mushrooms.jpg)
+![](https://raw.githubusercontent.com/twhipple/Web_Scraping_Books/main/Images/vidar-nordli-mathisen-B7j5sAKeTxQ-unsplash.jpg)
 
-*Not sure I want to go shrooming any time soon after working with this data. Source: mm ramos, freeimages.com*
+*This is what you get when you Google 'web-scraping'. Kinda nice really. Source: /Vidar Nordli Mathisen, unsplash.com*
 
 
 ## Built With:
