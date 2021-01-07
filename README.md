@@ -1,4 +1,4 @@
-# Web_Scraping_Books
+# Web Scraping Books
 
 
 ![](https://raw.githubusercontent.com/twhipple/Web_Scraping_Books/main/Images/megan-markham-VzBohmwztlg-unsplash.jpg)
@@ -15,8 +15,8 @@ In this repo I plan to explore web scraping techniques in order to become more f
 * Readme Outline
 * Project Summary
 * Repo Contents
-* Prerequisites
-* Results
+* Libraries & Prerequisites
+* Conclusions
 * Future Work
 * Built With, Contributors, Authors, Acknowledgments
 
@@ -58,7 +58,7 @@ There is so much more I would like to do - and so many more websites to scrape!
 
 ![](https://raw.githubusercontent.com/twhipple/Web_Scraping_Books/main/Images/vidar-nordli-mathisen-B7j5sAKeTxQ-unsplash.jpg)
 
-*This is what you get when you Google 'web-scraping'. Kinda nice really. Source: /Vidar Nordli Mathisen, unsplash.com*
+*This is what you get when you Google 'web-scraping'. Kinda nice really. Source: Vidar Nordli Mathisen, unsplash.com*
 
 
 ## Built With:
